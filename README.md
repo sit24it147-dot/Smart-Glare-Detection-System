@@ -7,7 +7,7 @@ The project focuses on **glare detection and rider alerts**, helping riders beco
 ## Documentation
 
 - **Circuit Simulation:** [Open Tinkercad Project](https://www.tinkercad.com/things/9z1GglvgxYv-swanky-blad/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=9tLdEPJNvx9w0gW_ZKWJoU9cIbG2SyuDvF0p9AP7RgE))
-- **Source Code:** (./SmartGlareDetection.ino)
+- **Source Code:** (SmartGlareDetection.ino)
 -- **Circuit Screenshot:** [View Circuit Screenshot](./Screenshot%202026-10-11%20191038.png)
 
 ## What Works
